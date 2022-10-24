@@ -23,6 +23,6 @@
 Проанализировать А-В тест.
 
 ### Библиотеки
-pandas
+pandas, numpy, seaborn, matplotlib, scipy
 
 
