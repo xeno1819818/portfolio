@@ -19,9 +19,9 @@
 
 
 ### Задача
-Проанализировать А-В тест.
+Проанализировать работу мобильного приложения и найти причины убыточности компании
 
 ### Библиотеки
-pandas, numpy, seaborn, matplotlib, scipy
+pandas, numpy, matplotlib, seaborn, scipy, plotly, datetime, timedelta
 
 
