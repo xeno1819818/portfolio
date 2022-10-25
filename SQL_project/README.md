@@ -33,5 +33,5 @@
 - Посчитайте среднее количество обзоров от пользователей, которые поставили больше 50 оценок
 
 ### Библиотеки
-pandas, numpy, matplotlib, seaborn, scipy, plotly, sklearn.linear_model, sklearn.ensemble, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, sklearn.cluster
+pandas, sqlalchemy
 
