@@ -20,8 +20,7 @@
 
 
 ### Задача
-Проанализировать работу мобильного приложения и найти причины убыточности компании
-
+Найти признаки влияющие на отток. Спрогнозировать какой будет отток клиентов на месяц вперед. Предложить способы решения по уменьшению оттока клиентов
 ### Библиотеки
 pandas, numpy, matplotlib, seaborn, scipy, plotly, sklearn.linear_model, sklearn.ensemble, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, sklearn.cluster
 
