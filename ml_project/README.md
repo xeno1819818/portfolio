@@ -23,6 +23,5 @@
 Проанализировать работу мобильного приложения и найти причины убыточности компании
 
 ### Библиотеки
-pandas, numpy, matplotlib, seaborn, scipy, plotly, datetime, timedelta
-
+pandas, numpy, matplotlib, seaborn, scipy, plotly, sklearn.linear_model, sklearn.ensemble, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, sklearn.cluster
 
