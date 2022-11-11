@@ -13,7 +13,7 @@
 | [Анализ бизнес-показателей мобильного приложения](unit_economy) |Убыточный интернет-магазин. Пронанализировать работу мобильного приложения и найти причины, почему магазин не прибыльный|*pandas, numpy, matplotlib, seaborn, scipy, plotly, datetime, timedelta*|
 | [Анализ оттока клиентов фитнесс-клуба](ml_project) |Проанализировать отток клиентов фитнес-клуба с помощью машинного обучения. Найти признаки влияющие на отток. Спрогнозировать какой будет отток клиентов на месяц вперед. Предложить способы решения по уменьшению оттока клиентов|*pandas, numpy, matplotlib, seaborn, scipy, plotly, sklearn.linear_model, sklearn.ensemble, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, sklearn.cluster*|
 | [Книжная база SQL](SQL_project) |Определение некскольких параметров в книжной базе|*pandas, sqlalchemy*|
-| [Проверка результатов A/B-теста](SQL_project) |Определение некскольких параметров в книжной базе|*pandas, sqlalchemy*|
+| [Оценка А-В теста](SQL_project) |Определение некскольких параметров в книжной базе|*pandas, sqlalchemy*|
 
 
 
