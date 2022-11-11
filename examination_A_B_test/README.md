@@ -18,6 +18,6 @@
 Оценить корректность проведения А_В теста. Проанализировать результаты А_В теста.
 
 ### Библиотеки
-pandas, numpy, matplotlib, seaborn, scipy, Проанализируйте результаты теста, plotly
+pandas, numpy, matplotlib, seaborn, scipy, math, plotly
 
 
